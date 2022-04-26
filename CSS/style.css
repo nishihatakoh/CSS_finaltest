@@ -1,0 +1,50 @@
+
+.header {
+  display: flex;
+  margin: 20px ;
+  color: navy;
+}
+
+
+.COACHTECH {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 0 auto;
+}
+
+
+
+.list_child {
+margin: 0 15px;
+  font-size: 15px;
+}
+
+.main_contents{
+  position: relative;
+}
+
+.img {
+  width: 50%;
+  display: block;
+  margin: 0 0 0 auto;
+  position: relative;
+  top: 200px;
+}
+
+.sentence {
+  font-size: 70px;
+}
+
+.blue_sercle {
+  width: 75%;
+  height: 200px;
+  background: navy;
+}
+
+
+
